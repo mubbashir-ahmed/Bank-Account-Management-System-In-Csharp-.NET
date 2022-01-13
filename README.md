@@ -8,7 +8,7 @@ It has two interfaces;
 
 It will help user to make transactions, monitor every transaction done, monitor current balance and generate invoices.
 
-# Feature: 
+## Feature: 
 Admin Interface features:
 1.	Login (through a specific admin username, password and post)
 2.	Create new user account
