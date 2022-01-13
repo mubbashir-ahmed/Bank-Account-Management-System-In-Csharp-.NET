@@ -4,7 +4,7 @@ Bank Account Management System developed using C#.NET.
 It manages the bank accounts of users. 
 It has two interfaces; 
 1. Admin Interface 
-2. 2. User Interface. 
+2. User Interface. 
 
 It will help user to make transactions, monitor every transaction done, monitor current balance and generate invoices.
 
